@@ -1,6 +1,6 @@
 # New-Year Eve's Resolutions
 
-## Table of Content 
+## Table of Contents
 - [Overview](#overview) 
 - [Project objectives](#project-objectives)
 - [Metadata](#metadata)
@@ -16,6 +16,9 @@
 This project focuses on analyzing New Year's Eve resolutions shared on Twitter in 2015. The dataset consists of tweets containing resolutions made by users, along with metadata such as the date and time of the tweet, geographic location, original text, and the resolution category. The goal of the project is to uncover insights into the most popular resolution categories, the timing of tweets, and the geographic distribution of these resolutions within the United States.
 
 The analysis was conducted using **Microsoft Excel** for data cleaning, analysis, and visualization. The project involved several steps, including data cleaning, aggregation, and visualization, to answer key questions about the dataset.
+
+![Screenshot (10)](https://github.com/user-attachments/assets/ea84d162-7f7b-43ed-a918-5d90d22367be)
+
 
 ## Project objectives
 
